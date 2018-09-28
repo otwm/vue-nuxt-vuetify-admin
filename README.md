@@ -1,1 +1,1 @@
-# admin-web
+# vue-nuxt-vuetify-admin
